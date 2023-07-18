@@ -1,0 +1,933 @@
+class_viagem,Dia_semana,timestamp
+esperado,Sexta-feira,1548989160
+acima do esperado,Sexta-feira,1548991680
+esperado,Sexta-feira,1548995400
+esperado,Sexta-feira,1548998880
+esperado,Quinta-feira,1548902040
+acima do esperado,Quinta-feira,1548905340
+esperado,Quinta-feira,1548909240
+esperado,Quinta-feira,1548912480
+esperado,Quinta-feira,1548915420
+esperado,Quarta-feira,1548815640
+esperado,Quarta-feira,1548819000
+esperado,Quarta-feira,1548823440
+esperado,Quarta-feira,1548826320
+esperado,Quarta-feira,1548828960
+esperado,Terça-feira,1548729600
+acima do esperado,Terça-feira,1548732660
+esperado,Terça-feira,1548736320
+esperado,Terça-feira,1548739620
+abaixo do esperado,Terça-feira,1548741540
+esperado,Terça-feira,1548742500
+abaixo do esperado,Terça-feira,1548745920
+esperado,Segunda-feira,1548642600
+esperado,Segunda-feira,1548646020
+esperado,Domingo,1548556380
+acima do esperado,Domingo,1548559680
+esperado,Domingo,1548563460
+acima do esperado,Domingo,1548566940
+esperado,Domingo,1548570540
+esperado,Sábado,1548469980
+esperado,Sábado,1548473460
+esperado,Sábado,1548476820
+acima do esperado,Sábado,1548480660
+esperado,Sábado,1548484200
+esperado,Sexta-feira,1548383820
+acima do esperado,Sexta-feira,1548387000
+esperado,Sexta-feira,1548390600
+esperado,Sexta-feira,1548394080
+acima do esperado,Quinta-feira,1548297120
+esperado,Quinta-feira,1548300780
+acima do esperado,Quinta-feira,1548304020
+esperado,Quinta-feira,1548307680
+esperado,Quarta-feira,1548211440
+acima do esperado,Quarta-feira,1548214140
+esperado,Quarta-feira,1548217980
+esperado,Quarta-feira,1548221160
+abaixo do esperado,Quarta-feira,1548223200
+esperado,Terça-feira,1548124800
+acima do esperado,Terça-feira,1548127680
+esperado,Terça-feira,1548131280
+acima do esperado,Terça-feira,1548133200
+acima do esperado,Terça-feira,1548137760
+esperado,Segunda-feira,1548038040
+acima do esperado,Segunda-feira,1548041400
+esperado,Segunda-feira,1548045060
+esperado,Segunda-feira,1548048360
+esperado,Domingo,1547951400
+esperado,Domingo,1547954940
+esperado,Domingo,1547958480
+esperado,Domingo,1547962140
+esperado,Domingo,1547965620
+esperado,Sábado,1547865360
+acima do esperado,Sábado,1547868540
+esperado,Sábado,1547872200
+acima do esperado,Sábado,1547875620
+esperado,Sexta-feira,1547779380
+acima do esperado,Sexta-feira,1547782080
+esperado,Sexta-feira,1547785980
+esperado,Sexta-feira,1547789280
+esperado,Quinta-feira,1547693100
+acima do esperado,Quinta-feira,1547695740
+esperado,Sexta-feira,1551411240
+esperado,Sexta-feira,1551414600
+esperado,Sexta-feira,1551417600
+abaixo do esperado,Sexta-feira,1551420480
+esperado,Sexta-feira,1551421620
+esperado,Sexta-feira,1551424380
+esperado,Quinta-feira,1551325380
+esperado,Quinta-feira,1551328200
+acima do esperado,Quinta-feira,1551331980
+esperado,Quinta-feira,1551335580
+acima do esperado,Quinta-feira,1551338040
+esperado,Quarta-feira,1551239100
+acima do esperado,Quarta-feira,1551241560
+esperado,Quarta-feira,1551245280
+esperado,Quarta-feira,1551248880
+esperado,Quarta-feira,1551251700
+esperado,Terça-feira,1551152640
+abaixo do esperado,Terça-feira,1551154680
+acima do esperado,Terça-feira,1551155340
+esperado,Terça-feira,1551159000
+abaixo do esperado,Terça-feira,1551161040
+esperado,Terça-feira,1551162300
+abaixo do esperado,Terça-feira,1551164220
+esperado,Terça-feira,1551165240
+acima do esperado,Segunda-feira,1551065340
+esperado,Segunda-feira,1551069060
+esperado,Segunda-feira,1551072540
+esperado,Segunda-feira,1551076140
+abaixo do esperado,Segunda-feira,1551078900
+abaixo do esperado,Segunda-feira,1551079500
+esperado,Domingo,1550978940
+acima do esperado,Domingo,1550982480
+esperado,Domingo,1550986020
+esperado,Domingo,1550989620
+esperado,Domingo,1550993280
+esperado,Sábado,1550892720
+esperado,Sábado,1550896140
+esperado,Sábado,1550899740
+esperado,Sábado,1550903340
+esperado,Sábado,1550906940
+esperado,Sexta-feira,1550806740
+acima do esperado,Sexta-feira,1550809740
+acima do esperado,Sexta-feira,1550813460
+esperado,Sexta-feira,1550817000
+esperado,Quinta-feira,1550720700
+esperado,Quinta-feira,1550723460
+acima do esperado,Quinta-feira,1550726940
+esperado,Quinta-feira,1550730600
+abaixo do esperado,Quinta-feira,1550732280
+esperado,Quinta-feira,1550733360
+acima do esperado,Quarta-feira,1550633640
+esperado,Quarta-feira,1550637240
+esperado,Quarta-feira,1550640660
+esperado,Quarta-feira,1550644080
+esperado,Quarta-feira,1550646900
+esperado,Terça-feira,1550547480
+acima do esperado,Terça-feira,1550550480
+esperado,Terça-feira,1550554140
+esperado,Terça-feira,1550557620
+esperado,Segunda-feira,1550461380
+esperado,Segunda-feira,1550464140
+esperado,Segunda-feira,1550467740
+esperado,Segunda-feira,1550471220
+esperado,Domingo,1550374320
+esperado,Domingo,1550377680
+esperado,Domingo,1550381280
+esperado,Domingo,1550385060
+esperado,Domingo,1550388540
+esperado,Sábado,1550284260
+acima do esperado,Sábado,1550287560
+esperado,Sábado,1550291460
+esperado,Sábado,1550294880
+acima do esperado,Sábado,1550296920
+acima do esperado,Sexta-feira,1550197920
+acima do esperado,Sexta-feira,1550201460
+esperado,Sexta-feira,1550205060
+esperado,Sexta-feira,1550208480
+esperado,Quinta-feira,1550111520
+esperado,Quinta-feira,1550114940
+esperado,Quinta-feira,1550118660
+esperado,Quinta-feira,1550121960
+esperado,Quarta-feira,1550025720
+esperado,Quarta-feira,1550028540
+acima do esperado,Quarta-feira,1550032020
+esperado,Quarta-feira,1550035680
+esperado,Terça-feira,1549938900
+esperado,Terça-feira,1549942080
+abaixo do esperado,Terça-feira,1549945800
+abaixo do esperado,Segunda-feira,1554089640
+esperado,Segunda-feira,1554090120
+acima do esperado,Segunda-feira,1554092820
+esperado,Segunda-feira,1554096660
+esperado,Segunda-feira,1554100620
+esperado,Segunda-feira,1554102840
+esperado,Sábado,1553930760
+esperado,Domingo,1554003060
+esperado,Domingo,1554006600
+esperado,Domingo,1554010200
+esperado,Domingo,1554013620
+esperado,Domingo,1554017340
+esperado,Sábado,1553918160
+esperado,Sábado,1553920620
+acima do esperado,Sábado,1553923740
+esperado,Sábado,1553927280
+esperado,Sexta-feira,1553831520
+esperado,Sexta-feira,1553833680
+esperado,Sexta-feira,1553837340
+esperado,Sexta-feira,1553840760
+esperado,Quinta-feira,1553744100
+esperado,Quinta-feira,1553747340
+esperado,Quinta-feira,1553750940
+esperado,Quinta-feira,1553754420
+esperado,Quinta-feira,1553757360
+esperado,Quarta-feira,1553657700
+esperado,Quarta-feira,1553661120
+acima do esperado,Quarta-feira,1553664480
+esperado,Quarta-feira,1553668200
+acima do esperado,Quarta-feira,1553670900
+esperado,Terça-feira,1553571600
+abaixo do esperado,Terça-feira,1553573820
+acima do esperado,Terça-feira,1553574600
+esperado,Terça-feira,1553578140
+esperado,Terça-feira,1553581560
+acima do esperado,Segunda-feira,1553484540
+esperado,Segunda-feira,1553488200
+acima do esperado,Segunda-feira,1553491620
+esperado,Segunda-feira,1553495220
+esperado,Domingo,1553398140
+esperado,Domingo,1553400240
+esperado,Domingo,1553401680
+esperado,Domingo,1553405220
+esperado,Domingo,1553408760
+esperado,Sábado,1553312040
+esperado,Sábado,1553315460
+esperado,Sábado,1553318940
+esperado,Sábado,1553322600
+esperado,Sábado,1553326260
+esperado,Sexta-feira,1553226240
+esperado,Sexta-feira,1553229060
+esperado,Sexta-feira,1553232540
+esperado,Sexta-feira,1553236020
+esperado,Sexta-feira,1553239320
+esperado,Quinta-feira,1553139180
+esperado,Quinta-feira,1553142540
+esperado,Quinta-feira,1553145960
+esperado,Quinta-feira,1553149860
+esperado,Quarta-feira,1553058960
+esperado,Quarta-feira,1553062140
+esperado,Quarta-feira,1553052840
+esperado,Quarta-feira,1553056200
+esperado,Terça-feira,1552966620
+acima do esperado,Terça-feira,1552969620
+esperado,Terça-feira,1552973280
+esperado,Terça-feira,1552976580
+esperado,Segunda-feira,1552879680
+acima do esperado,Segunda-feira,1552882980
+esperado,Segunda-feira,1552886940
+esperado,Segunda-feira,1552889100
+abaixo do esperado,Segunda-feira,1552892280
+esperado,Segunda-feira,1552893240
+esperado,Domingo,1552793520
+esperado,Domingo,1552796820
+esperado,Domingo,1552800540
+esperado,Domingo,1552804140
+esperado,Domingo,1552807860
+esperado,Sábado,1552706940
+esperado,Sábado,1552710540
+esperado,Sábado,1552713960
+esperado,Sexta-feira,1552621200
+acima do esperado,Sexta-feira,1552624080
+acima do esperado,Sexta-feira,1552627800
+esperado,Sexta-feira,1552631520
+acima do esperado,Sexta-feira,1552634160
+esperado,Quinta-feira,1552534380
+acima do esperado,Quarta-feira,1556681460
+acima do esperado,Quarta-feira,1556685300
+esperado,Quarta-feira,1556688960
+acima do esperado,Quarta-feira,1556692200
+esperado,Quarta-feira,1556695800
+esperado,Terça-feira,1556595480
+acima do esperado,Terça-feira,1556598480
+acima do esperado,Terça-feira,1556602020
+esperado,Terça-feira,1556605560
+esperado,Terça-feira,1556608500
+esperado,Segunda-feira,1556515740
+esperado,Segunda-feira,1556519340
+acima do esperado,Segunda-feira,1556522100
+esperado,Sábado,1556349780
+acima do esperado,Domingo,1556422140
+acima do esperado,Domingo,1556425740
+acima do esperado,Domingo,1556429460
+acima do esperado,Domingo,1556433000
+esperado,Sábado,1556335800
+esperado,Sábado,1556339160
+acima do esperado,Sábado,1556342880
+esperado,Sábado,1556346420
+esperado,Sexta-feira,1556249460
+esperado,Sexta-feira,1556253060
+esperado,Sexta-feira,1556256540
+esperado,Sexta-feira,1556260560
+acima do esperado,Sexta-feira,1556262900
+esperado,Quinta-feira,1556163240
+esperado,Quinta-feira,1556166540
+acima do esperado,Quinta-feira,1556170020
+esperado,Quinta-feira,1556173680
+esperado,Quarta-feira,1556077200
+esperado,Quarta-feira,1556080080
+esperado,Quarta-feira,1556083620
+esperado,Quarta-feira,1556087280
+esperado,Quarta-feira,1556089980
+esperado,Terça-feira,1555990380
+esperado,Terça-feira,1555993680
+acima do esperado,Terça-feira,1555997100
+esperado,Terça-feira,1556000820
+abaixo do esperado,Terça-feira,1556003340
+esperado,Terça-feira,1556003760
+esperado,Segunda-feira,1555904580
+abaixo do esperado,Segunda-feira,1555906680
+acima do esperado,Segunda-feira,1555907220
+esperado,Segunda-feira,1555911000
+esperado,Segunda-feira,1555913520
+acima do esperado,Segunda-feira,1555917000
+esperado,Sábado,1555745340
+acima do esperado,Domingo,1555817340
+acima do esperado,Domingo,1555820880
+acima do esperado,Domingo,1555824480
+acima do esperado,Domingo,1555828080
+esperado,Domingo,1555831680
+esperado,Sábado,1555731060
+esperado,Sábado,1555734480
+esperado,Sábado,1555738140
+esperado,Sábado,1555741680
+esperado,Sexta-feira,1555644840
+esperado,Sexta-feira,1555648080
+esperado,Sexta-feira,1555651440
+acima do esperado,Sexta-feira,1555655280
+esperado,Sexta-feira,1555659060
+esperado,Quinta-feira,1555558320
+esperado,Quinta-feira,1555561680
+acima do esperado,Quinta-feira,1555565160
+esperado,Quinta-feira,1555569000
+esperado,Quinta-feira,1555571640
+esperado,Quarta-feira,1555472580
+esperado,Quarta-feira,1555475460
+abaixo do esperado,Quarta-feira,1555478280
+acima do esperado,Quarta-feira,1555479000
+esperado,Quarta-feira,1555482540
+acima do esperado,Quarta-feira,1555485600
+esperado,Terça-feira,1555386300
+esperado,Terça-feira,1555389060
+esperado,Terça-feira,1555390920
+esperado,Terça-feira,1555392360
+esperado,Terça-feira,1555396020
+abaixo do esperado,Sexta-feira,1559341800
+abaixo do esperado,Sexta-feira,1559343120
+esperado,Sábado,1559359920
+esperado,Sábado,1559363400
+esperado,Sábado,1559366940
+acima do esperado,Sábado,1559370600
+abaixo do esperado,Sábado,1559374200
+esperado,Sexta-feira,1559273460
+esperado,Sexta-feira,1559276880
+abaixo do esperado,Sexta-feira,1559279760
+esperado,Sexta-feira,1559280540
+abaixo do esperado,Sexta-feira,1559283240
+esperado,Sexta-feira,1559284380
+abaixo do esperado,Sexta-feira,1559286360
+acima do esperado,Sexta-feira,1559286960
+esperado,Quinta-feira,1559186880
+acima do esperado,Quinta-feira,1559190600
+esperado,Quarta-feira,1559101140
+acima do esperado,Quarta-feira,1559104140
+acima do esperado,Quarta-feira,1559107680
+esperado,Quarta-feira,1559111280
+esperado,Terça-feira,1559021220
+esperado,Terça-feira,1559024280
+acima do esperado,Terça-feira,1559027640
+esperado,Segunda-feira,1558927860
+esperado,Segunda-feira,1558931280
+esperado,Segunda-feira,1558933320
+esperado,Segunda-feira,1558934880
+esperado,Segunda-feira,1558938360
+esperado,Sábado,1558769340
+esperado,Domingo,1558841520
+esperado,Domingo,1558845000
+esperado,Domingo,1558852140
+esperado,Domingo,1558855920
+esperado,Sábado,1558758420
+abaixo do esperado,Sábado,1558760880
+esperado,Sábado,1558761960
+abaixo do esperado,Sábado,1558765200
+esperado,Sábado,1558765740
+esperado,Sexta-feira,1558668720
+acima do esperado,Sexta-feira,1558678020
+acima do esperado,Sexta-feira,1558682160
+esperado,Quinta-feira,1558582140
+acima do esperado,Quinta-feira,1558585560
+acima do esperado,Quinta-feira,1558589160
+esperado,Quinta-feira,1558592880
+abaixo do esperado,Quinta-feira,1558594860
+esperado,Quinta-feira,1558595700
+acima do esperado,Quarta-feira,1558495680
+esperado,Quarta-feira,1558499520
+esperado,Quarta-feira,1558503000
+esperado,Quarta-feira,1558506420
+esperado,Terça-feira,1558409400
+esperado,Terça-feira,1558412640
+abaixo do esperado,Terça-feira,1558414860
+acima do esperado,Terça-feira,1558415760
+esperado,Terça-feira,1558420140
+esperado,Segunda-feira,1558323000
+esperado,Segunda-feira,1558325760
+esperado,Segunda-feira,1558329780
+abaixo do esperado,Segunda-feira,1558332120
+esperado,Segunda-feira,1558333020
+esperado,Segunda-feira,1558336440
+esperado,Sábado,1558164240
+esperado,Domingo,1558236480
+acima do esperado,Domingo,1558240020
+acima do esperado,Domingo,1558243560
+esperado,Domingo,1558247220
+esperado,Domingo,1558248960
+esperado,Sábado,1558150440
+esperado,Sábado,1558154040
+esperado,Sábado,1558157400
+esperado,Sábado,1558161120
+esperado,Sexta-feira,1558063680
+esperado,Sexta-feira,1558066680
+esperado,Sexta-feira,1558069440
+esperado,Sexta-feira,1558071060
+esperado,Sexta-feira,1558074180
+esperado,Quinta-feira,1557977940
+acima do esperado,Quinta-feira,1557980460
+esperado,Quinta-feira,1557984360
+esperado,Segunda-feira,1561952460
+esperado,Segunda-feira,1561955340
+esperado,Segunda-feira,1561958880
+esperado,Segunda-feira,1561962480
+esperado,Segunda-feira,1561965540
+esperado,Sábado,1561793400
+esperado,Domingo,1561865520
+esperado,Domingo,1561869000
+esperado,Domingo,1561872480
+esperado,Domingo,1561876080
+esperado,Domingo,1561879740
+esperado,Sábado,1561779240
+esperado,Sábado,1561782780
+esperado,Sábado,1561786320
+esperado,Sábado,1561789800
+esperado,Sexta-feira,1561693500
+esperado,Sexta-feira,1561696200
+esperado,Sexta-feira,1561699860
+esperado,Sexta-feira,1561703280
+esperado,Sexta-feira,1561706400
+esperado,Quinta-feira,1561606980
+esperado,Quinta-feira,1561609680
+acima do esperado,Quinta-feira,1561613340
+esperado,Quinta-feira,1561616940
+esperado,Quinta-feira,1561620000
+esperado,Quarta-feira,1561520580
+esperado,Quarta-feira,1561523460
+esperado,Quarta-feira,1561527000
+esperado,Quarta-feira,1561530600
+esperado,Quarta-feira,1561533660
+esperado,Terça-feira,1561434360
+esperado,Terça-feira,1561437000
+esperado,Terça-feira,1561440420
+esperado,Terça-feira,1561444200
+esperado,Terça-feira,1561447080
+esperado,Segunda-feira,1561347900
+esperado,Segunda-feira,1561351020
+esperado,Segunda-feira,1561354200
+esperado,Segunda-feira,1561357800
+esperado,Segunda-feira,1561360800
+esperado,Sábado,1561188420
+esperado,Domingo,1561260480
+esperado,Domingo,1561264020
+esperado,Domingo,1561267680
+esperado,Domingo,1561271280
+esperado,Domingo,1561274940
+esperado,Sábado,1561174260
+esperado,Sábado,1561177800
+esperado,Sábado,1561181400
+esperado,Sábado,1561185000
+esperado,Sexta-feira,1561088460
+esperado,Sexta-feira,1561091220
+esperado,Sexta-feira,1561094880
+esperado,Sexta-feira,1561098480
+esperado,Sexta-feira,1561101540
+esperado,Quinta-feira,1561001460
+esperado,Quinta-feira,1561004940
+esperado,Quinta-feira,1561008480
+esperado,Quinta-feira,1561012140
+esperado,Quinta-feira,1561015740
+acima do esperado,Quarta-feira,1560914820
+esperado,Quarta-feira,1560918840
+acima do esperado,Quarta-feira,1560922320
+esperado,Quarta-feira,1560925860
+abaixo do esperado,Quarta-feira,1560927360
+acima do esperado,Quarta-feira,1560928500
+esperado,Terça-feira,1560828720
+acima do esperado,Terça-feira,1560832260
+esperado,Terça-feira,1560835860
+esperado,Terça-feira,1560839220
+esperado,Terça-feira,1560842220
+esperado,Segunda-feira,1560742380
+esperado,Segunda-feira,1560745620
+esperado,Segunda-feira,1560747420
+esperado,Segunda-feira,1560749280
+esperado,Segunda-feira,1560752760
+esperado,Segunda-feira,1560755760
+esperado,Sábado,1560583500
+esperado,Domingo,1560655740
+esperado,Domingo,1560659160
+acima do esperado,Domingo,1560662700
+esperado,Domingo,1560666360
+esperado,Sábado,1560569760
+esperado,Sábado,1560572760
+esperado,Sábado,1560576420
+esperado,Sábado,1560580140
+esperado,Sexta-feira,1560485580
+esperado,Sexta-feira,1560490080
+esperado,Sexta-feira,1560493800
+esperado,Sexta-feira,1560496800
+esperado,Quinta-feira,1564631160
+esperado,Quinta-feira,1564633800
+esperado,Quinta-feira,1564637580
+esperado,Quinta-feira,1564640820
+esperado,Quinta-feira,1564643700
+esperado,Quarta-feira,1564544580
+esperado,Quarta-feira,1564547340
+esperado,Quarta-feira,1564551300
+esperado,Quarta-feira,1564554660
+esperado,Quarta-feira,1564557420
+esperado,Terça-feira,1564458420
+esperado,Terça-feira,1564460820
+esperado,Terça-feira,1564464600
+esperado,Terça-feira,1564468320
+esperado,Terça-feira,1564470960
+esperado,Segunda-feira,1564371780
+esperado,Segunda-feira,1564374600
+esperado,Segunda-feira,1564378320
+esperado,Segunda-feira,1564381680
+esperado,Segunda-feira,1564384620
+esperado,Domingo,1564284720
+esperado,Domingo,1564288200
+esperado,Domingo,1564291740
+esperado,Domingo,1564295280
+esperado,Domingo,1564298940
+esperado,Sábado,1564198260
+esperado,Sábado,1564201740
+esperado,Sábado,1564205520
+esperado,Sábado,1564209000
+esperado,Sábado,1564212660
+esperado,Sexta-feira,1564112640
+esperado,Sexta-feira,1564115460
+esperado,Sexta-feira,1564119000
+esperado,Sexta-feira,1564122360
+esperado,Sexta-feira,1564125360
+esperado,Quinta-feira,1564026240
+esperado,Quinta-feira,1564028820
+esperado,Quinta-feira,1564032660
+esperado,Quinta-feira,1564036140
+esperado,Quinta-feira,1564039020
+esperado,Quarta-feira,1563939840
+esperado,Quarta-feira,1563942480
+esperado,Quarta-feira,1563946500
+esperado,Quarta-feira,1563949680
+esperado,Quarta-feira,1563952560
+esperado,Terça-feira,1563853500
+acima do esperado,Terça-feira,1563856080
+esperado,Terça-feira,1563859920
+esperado,Terça-feira,1563863340
+esperado,Terça-feira,1563866160
+esperado,Segunda-feira,1563767040
+esperado,Segunda-feira,1563769740
+esperado,Segunda-feira,1563773460
+esperado,Segunda-feira,1563776940
+esperado,Segunda-feira,1563779760
+esperado,Sábado,1563607320
+esperado,Domingo,1563679800
+esperado,Domingo,1563683520
+esperado,Domingo,1563686940
+esperado,Domingo,1563690360
+esperado,Domingo,1563694080
+esperado,Sábado,1563593760
+esperado,Sábado,1563596820
+esperado,Sábado,1563600480
+esperado,Sábado,1563604260
+esperado,Sexta-feira,1563507900
+esperado,Sexta-feira,1563510600
+esperado,Sexta-feira,1563514200
+esperado,Sexta-feira,1563517680
+esperado,Sexta-feira,1563520560
+esperado,Quinta-feira,1563421620
+acima do esperado,Quinta-feira,1563424200
+esperado,Quinta-feira,1563427920
+esperado,Quinta-feira,1563431280
+esperado,Quinta-feira,1563434220
+esperado,Quarta-feira,1563335220
+esperado,Quarta-feira,1563337620
+abaixo do esperado,Quarta-feira,1563339300
+esperado,Quarta-feira,1563341460
+esperado,Quarta-feira,1563344880
+esperado,Quarta-feira,1563347820
+esperado,Terça-feira,1563248760
+esperado,Terça-feira,1563251340
+esperado,Terça-feira,1563254940
+esperado,Terça-feira,1563258600
+esperado,Terça-feira,1563261360
+esperado,Segunda-feira,1563162240
+esperado,Segunda-feira,1563164880
+esperado,Segunda-feira,1563168540
+esperado,Segunda-feira,1563172020
+esperado,Segunda-feira,1563174960
+esperado,Sábado,1563002640
+esperado,Domingo,1563076740
+esperado,Domingo,1563078540
+esperado,Domingo,1563082080
+esperado,Terça-feira,1569901500
+esperado,Terça-feira,1569904260
+esperado,Terça-feira,1569907920
+esperado,Terça-feira,1569911400
+esperado,Terça-feira,1569914100
+esperado,Segunda-feira,1569815160
+esperado,Segunda-feira,1569817740
+esperado,Segunda-feira,1569821580
+esperado,Segunda-feira,1569825000
+esperado,Segunda-feira,1569827760
+esperado,Domingo,1569727860
+esperado,Domingo,1569731340
+esperado,Domingo,1569734820
+esperado,Domingo,1569738540
+esperado,Domingo,1569742260
+esperado,Sábado,1569641520
+esperado,Sábado,1569644940
+esperado,Sábado,1569648720
+esperado,Sábado,1569652080
+esperado,Sábado,1569655800
+esperado,Sexta-feira,1569555840
+esperado,Sexta-feira,1569558780
+esperado,Sexta-feira,1569562440
+esperado,Sexta-feira,1569565620
+esperado,Sexta-feira,1569568560
+esperado,Quinta-feira,1569469440
+esperado,Quinta-feira,1569472260
+esperado,Quinta-feira,1569475860
+esperado,Quinta-feira,1569479460
+esperado,Quinta-feira,1569482220
+esperado,Quarta-feira,1569383160
+esperado,Quarta-feira,1569385680
+esperado,Quarta-feira,1569389400
+esperado,Quarta-feira,1569393000
+esperado,Quarta-feira,1569395640
+esperado,Terça-feira,1569296580
+esperado,Terça-feira,1569299280
+esperado,Terça-feira,1569303180
+esperado,Terça-feira,1569306420
+esperado,Terça-feira,1569309360
+esperado,Segunda-feira,1569210180
+esperado,Segunda-feira,1569212820
+esperado,Segunda-feira,1569216600
+esperado,Segunda-feira,1569219960
+esperado,Segunda-feira,1569222960
+esperado,Domingo,1569122880
+esperado,Domingo,1569126480
+esperado,Domingo,1569130140
+esperado,Domingo,1569133620
+esperado,Domingo,1569137220
+esperado,Sábado,1569036720
+esperado,Sábado,1569040140
+esperado,Sábado,1569043800
+esperado,Sábado,1569047520
+esperado,Sábado,1569051060
+esperado,Sexta-feira,1568950980
+esperado,Sexta-feira,1568953740
+esperado,Sexta-feira,1568957460
+esperado,Sexta-feira,1568961420
+esperado,Sexta-feira,1568963820
+esperado,Quinta-feira,1568864640
+esperado,Quinta-feira,1568867280
+esperado,Quinta-feira,1568870940
+esperado,Quinta-feira,1568874540
+esperado,Quinta-feira,1568877300
+esperado,Quarta-feira,1568778300
+esperado,Quarta-feira,1568781060
+esperado,Quarta-feira,1568784600
+esperado,Quarta-feira,1568788080
+esperado,Quarta-feira,1568790960
+esperado,Terça-feira,1568691780
+esperado,Terça-feira,1568694480
+esperado,Terça-feira,1568698140
+esperado,Terça-feira,1568701680
+esperado,Terça-feira,1568704620
+esperado,Segunda-feira,1568605560
+esperado,Segunda-feira,1568608140
+esperado,Segunda-feira,1568611800
+esperado,Segunda-feira,1568615340
+esperado,Segunda-feira,1568618220
+esperado,Domingo,1568518140
+esperado,Domingo,1568521740
+esperado,Domingo,1568525280
+esperado,Domingo,1568529000
+esperado,Domingo,1568532600
+esperado,Sábado,1568432040
+esperado,Sábado,1568435340
+esperado,Sábado,1568438760
+esperado,Sábado,1568442540
+esperado,Sábado,1568446080
+esperado,Sexta-feira,1568346240
+esperado,Sexta-feira,1572579960
+esperado,Sexta-feira,1572582420
+esperado,Sexta-feira,1572586320
+esperado,Sexta-feira,1572589800
+esperado,Sexta-feira,1572592680
+esperado,Quinta-feira,1572493500
+esperado,Quinta-feira,1572496080
+esperado,Quinta-feira,1572499860
+esperado,Quinta-feira,1572503280
+esperado,Quinta-feira,1572506220
+esperado,Quarta-feira,1572406980
+esperado,Quarta-feira,1572409680
+esperado,Quarta-feira,1572413280
+esperado,Quarta-feira,1572417000
+esperado,Quarta-feira,1572419700
+esperado,Terça-feira,1572320640
+esperado,Terça-feira,1572323520
+esperado,Terça-feira,1572327180
+esperado,Terça-feira,1572330480
+esperado,Terça-feira,1572333540
+esperado,Segunda-feira,1572234240
+esperado,Segunda-feira,1572237120
+esperado,Segunda-feira,1572240540
+esperado,Segunda-feira,1572244200
+esperado,Segunda-feira,1572246840
+esperado,Domingo,1572146820
+esperado,Domingo,1572150480
+esperado,Domingo,1572154140
+esperado,Domingo,1572157740
+esperado,Domingo,1572161340
+esperado,Sábado,1572060780
+esperado,Sábado,1572064020
+esperado,Sábado,1572067740
+esperado,Sábado,1572071340
+esperado,Sábado,1572075060
+esperado,Sexta-feira,1571975040
+esperado,Sexta-feira,1571977800
+esperado,Sexta-feira,1571981640
+esperado,Sexta-feira,1571985180
+esperado,Sexta-feira,1571987880
+esperado,Quinta-feira,1571888580
+esperado,Quinta-feira,1571891520
+esperado,Quinta-feira,1571895360
+esperado,Quinta-feira,1571898660
+esperado,Quinta-feira,1571901420
+esperado,Quarta-feira,1571802120
+esperado,Quarta-feira,1571804880
+esperado,Quarta-feira,1571808900
+esperado,Quarta-feira,1571812200
+esperado,Quarta-feira,1571815080
+esperado,Terça-feira,1571715780
+esperado,Terça-feira,1571718480
+esperado,Terça-feira,1571722200
+esperado,Terça-feira,1571725800
+esperado,Terça-feira,1571728680
+esperado,Segunda-feira,1571629440
+esperado,Segunda-feira,1571632200
+esperado,Segunda-feira,1571635860
+esperado,Segunda-feira,1571639340
+esperado,Segunda-feira,1571642220
+esperado,Domingo,1571542080
+esperado,Domingo,1571545740
+esperado,Domingo,1571549280
+esperado,Domingo,1571552880
+esperado,Domingo,1571556480
+esperado,Sábado,1571455980
+esperado,Sábado,1571459520
+esperado,Sábado,1571463060
+esperado,Sábado,1571466660
+esperado,Sábado,1571470380
+esperado,Sexta-feira,1571370180
+esperado,Sexta-feira,1571373120
+esperado,Sexta-feira,1571376960
+esperado,Sexta-feira,1571380260
+esperado,Sexta-feira,1571383020
+esperado,Quinta-feira,1571290380
+esperado,Quinta-feira,1571293860
+esperado,Quinta-feira,1571296620
+esperado,Quinta-feira,1571283960
+esperado,Quinta-feira,1571286540
+esperado,Quarta-feira,1571197500
+esperado,Quarta-feira,1571200200
+esperado,Quarta-feira,1571203800
+esperado,Quarta-feira,1571207280
+esperado,Quarta-feira,1571210160
+esperado,Terça-feira,1571110980
+esperado,Terça-feira,1571113680
+esperado,Sábado,1543631700
+esperado,Sábado,1543635000
+esperado,Sábado,1543638540
+esperado,Sábado,1543642200
+esperado,Sábado,1543645800
+esperado,Sexta-feira,1543545660
+esperado,Sexta-feira,1543548600
+acima do esperado,Sexta-feira,1543552020
+esperado,Sexta-feira,1543555860
+esperado,Sexta-feira,1543558740
+esperado,Quinta-feira,1543459440
+esperado,Quinta-feira,1543461900
+esperado,Quinta-feira,1543465800
+esperado,Quinta-feira,1543469460
+esperado,Quinta-feira,1543472220
+esperado,Quarta-feira,1543372740
+esperado,Quarta-feira,1543375800
+esperado,Quarta-feira,1543379340
+esperado,Quarta-feira,1543382820
+esperado,Quarta-feira,1543385760
+esperado,Terça-feira,1543286640
+acima do esperado,Terça-feira,1543289460
+esperado,Terça-feira,1543293000
+esperado,Terça-feira,1543296420
+esperado,Terça-feira,1543299480
+acima do esperado,Segunda-feira,1543199280
+esperado,Segunda-feira,1543202880
+acima do esperado,Segunda-feira,1543206540
+esperado,Segunda-feira,1543210140
+esperado,Segunda-feira,1543212780
+esperado,Domingo,1543113180
+esperado,Domingo,1543116600
+esperado,Domingo,1543120200
+esperado,Domingo,1543123740
+esperado,Domingo,1543127460
+esperado,Sexta-feira,1542953580
+esperado,Sábado,1543026900
+acima do esperado,Sábado,1543030080
+esperado,Sábado,1543033680
+esperado,Sábado,1543037400
+esperado,Sábado,1543040880
+esperado,Sexta-feira,1542941100
+esperado,Sexta-feira,1542943740
+acima do esperado,Sexta-feira,1542947280
+esperado,Sexta-feira,1542950880
+esperado,Quinta-feira,1542854460
+acima do esperado,Quinta-feira,1542857280
+acima do esperado,Quinta-feira,1542860820
+esperado,Quinta-feira,1542864960
+esperado,Quinta-feira,1542867240
+esperado,Quarta-feira,1542768300
+esperado,Quarta-feira,1542770940
+acima do esperado,Quarta-feira,1542774360
+esperado,Quarta-feira,1542777900
+esperado,Quarta-feira,1542780780
+esperado,Terça-feira,1542681780
+esperado,Terça-feira,1542691680
+esperado,Terça-feira,1542694500
+esperado,Segunda-feira,1542594480
+esperado,Segunda-feira,1542598380
+esperado,Segunda-feira,1542601860
+esperado,Segunda-feira,1542605220
+esperado,Segunda-feira,1542608340
+esperado,Domingo,1542508140
+acima do esperado,Domingo,1542511620
+acima do esperado,Domingo,1542515160
+acima do esperado,Domingo,1542518940
+esperado,Domingo,1542522480
+esperado,Sábado,1542423540
+esperado,Sábado,1542425340
+esperado,Sábado,1542428940
+esperado,Sábado,1542432660
+esperado,Sábado,1542436260
+esperado,Sexta-feira,1542335220
+esperado,Sexta-feira,1542338760
+esperado,Sexta-feira,1542342480
+esperado,Sexta-feira,1542346020
+esperado,Sexta-feira,1542348840
+esperado,Quinta-feira,1542249240
+acima do esperado,Terça-feira,1546309380
+esperado,Terça-feira,1546309980
+esperado,Terça-feira,1546310160
+esperado,Terça-feira,1546312200
+acima do esperado,Terça-feira,1546312860
+acima do esperado,Terça-feira,1546313160
+acima do esperado,Terça-feira,1546316880
+esperado,Terça-feira,1546321320
+esperado,Terça-feira,1546324200
+esperado,Segunda-feira,1546223340
+acima do esperado,Segunda-feira,1546226820
+esperado,Segunda-feira,1546230540
+acima do esperado,Segunda-feira,1546234020
+esperado,Segunda-feira,1546237800
+esperado,Domingo,1546136940
+esperado,Domingo,1546140420
+esperado,Domingo,1546144020
+esperado,Domingo,1546147800
+esperado,Domingo,1546151580
+esperado,Sábado,1546050780
+esperado,Sábado,1546054080
+acima do esperado,Sábado,1546057680
+esperado,Sábado,1546061280
+esperado,Sábado,1546065060
+esperado,Sexta-feira,1545964500
+esperado,Sexta-feira,1545967860
+esperado,Sexta-feira,1545971340
+esperado,Sexta-feira,1545974880
+esperado,Sexta-feira,1545977700
+esperado,Quinta-feira,1545878340
+abaixo do esperado,Quinta-feira,1545880920
+acima do esperado,Quinta-feira,1545881340
+esperado,Quinta-feira,1545885000
+acima do esperado,Quinta-feira,1545886860
+esperado,Quinta-feira,1545891180
+esperado,Quarta-feira,1545791520
+esperado,Quarta-feira,1545794700
+esperado,Quarta-feira,1545798660
+esperado,Quarta-feira,1545802080
+esperado,Terça-feira,1545705420
+esperado,Terça-feira,1545708660
+esperado,Terça-feira,1545712080
+esperado,Terça-feira,1545715920
+esperado,Terça-feira,1545719280
+esperado,Domingo,1545546720
+esperado,Segunda-feira,1545618660
+esperado,Segunda-feira,1545622080
+esperado,Segunda-feira,1545625860
+esperado,Segunda-feira,1545629280
+esperado,Segunda-feira,1545633060
+esperado,Domingo,1545532380
+esperado,Domingo,1545535740
+esperado,Domingo,1545539340
+esperado,Domingo,1545543060
+esperado,Sábado,1545446040
+esperado,Sábado,1545449220
+abaixo do esperado,Sábado,1545459360
+esperado,Sábado,1545460020
+esperado,Sexta-feira,1545359880
+acima do esperado,Sexta-feira,1545362880
+esperado,Sexta-feira,1545366720
+esperado,Sexta-feira,1545370140
+esperado,Sexta-feira,1545373020
+esperado,Quarta-feira,1545202740
+abaixo do esperado,Quarta-feira,1545246180
+esperado,Quinta-feira,1545273240
+esperado,Quinta-feira,1545276420
+esperado,Quarta-feira,1545186840
+esperado,Quarta-feira,1545190080
+esperado,Quarta-feira,1545193260
+esperado,Quarta-feira,1545198360
+esperado,Quarta-feira,1545200040
+esperado,Terça-feira,1545101100
+esperado,Terça-feira,1545103740
+acima do esperado,Terça-feira,1545107340
+esperado,Terça-feira,1545111000
+esperado,Terça-feira,1545113760
+esperado,Segunda-feira,1545014400
+esperado,Segunda-feira,1545017340
+acima do esperado,Segunda-feira,1545020820
+esperado,Segunda-feira,1545024540
+abaixo do esperado,Segunda-feira,1545027300
+abaixo do esperado,Segunda-feira,1545028560
+acima do esperado,Domingo,1544927400
+acima do esperado,Domingo,1544930940
+esperado,Domingo,1544934600
